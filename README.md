@@ -1,6 +1,7 @@
+![logo](https://github.com/SoumajyotiDhut/SoumajyotiDhut/blob/master/github-header-banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Soumajyoti Dhut</h1>
 <h3 align="center">A passionate Data Analyst from India.💡 I love building data-driven projects and AI-powered solutions that solve real-world problems.</h3>
-<img align="right"width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/341bc30d-1430-494c-9764-f0291eab76a7" />
+<img align="right"width="300" height="500" alt="image" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumajyotidhut&label=Profile%20views&color=0e75b6&style=flat" alt="soumajyotidhut" /> </p>
 
