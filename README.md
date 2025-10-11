@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumajyoti Dhut</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/7f7a25ae-0e56-41ea-a111-4f585c2e58c3" />
-
+<h3 align="center">A passionate Data Analyst from India.💡 I love building data-driven projects and AI-powered solutions that solve real-world problems.</h3>
+<img align="right"width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/341bc30d-1430-494c-9764-f0291eab76a7" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumajyotidhut&label=Profile%20views&color=0e75b6&style=flat" alt="soumajyotidhut" /> </p>
 
