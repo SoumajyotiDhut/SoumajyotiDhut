@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumajyoti Dhut</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/37c2f26d-b653-447d-b9d9-05fe756dac27">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumajyotidhut&label=Profile%20views&color=0e75b6&style=flat" alt="soumajyotidhut" /> </p>
 
