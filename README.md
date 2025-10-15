@@ -2,12 +2,17 @@
 <h1 align="center">Hi 👋, I'm Soumajyoti Dhut</h1>
 <h3 align="center">Versatile tech enthusiast with a passion for data science and data analyst, problem-solving, and building meaningful
  digital solutions.</h3>
- <!-- Profile Photo Frame -->
-<img src="assets/Soumik.png" alt="Soumik Bag" width="200" style="border-radius: 50%; border: 4px solid #9E7BFF; margin-top: -60px; box-shadow: 0 0 25px rgba(158, 123, 255, 0.6);" />
-
  
- <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E53935&center=true&vCenter=true&width=500&lines=Code+Artisan+💻;Problem+Solver+🚀;Data+Enthusiast+🧮" alt="Typing Animation" />
+<p align="center">
+  <img src="https://github.com/SoumajyotiDhut/SoumajyotiDhut/blob/master/github_profile.png"
+       alt="Soumajyoti Dhut"
+       width="200"
+       style="border-radius: 50%; border: 4px solid #9E7BFF; box-shadow: 0 0 25px rgba(158, 123, 255, 0.6);" />
+  <br><br>
+  <b><span style="color:#9C27B0;">Soumajyoti Dhut</span></b><br><br>
+  <!-- Typing Animation with Logos -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E53935&center=true&vCenter=true&width=500&lines=Data+Enthusiast+📊;🐍+Python+|+💾+SQL+|+📊+Power+BI" alt="Typing Animation" />
+</p>
 
 
 # 💻 Tech Stack:
@@ -17,7 +22,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumajyoti_0_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumajyoti-dhut) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumajyotidhut@gmail.com) 
 
+
 # Projects
+
 ## Completed
 <ul>
   <li> <a href="https://github.com/SoumajyotiDhut/Regional-Sales-Analysis"> Regional Sales Analysis </a> : Comprehensive regional sales analysis project using Python, SQL,PowerBI and Excel to uncover revenue trends, top products, and regional performance insights </li>
