@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Soumajyoti Dhut</h1>
 <h3 align="center">Versatile tech enthusiast with a passion for data science and data analyst, problem-solving, and building meaningful
  digital solutions.</h3>
-<img align="center"width="300" height="500" alt="image" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif"/>
+ <!-- Profile Photo Frame -->
+<img src="assets/Soumik.png" alt="Soumik Bag" width="200" style="border-radius: 50%; border: 4px solid #9E7BFF; margin-top: -60px; box-shadow: 0 0 25px rgba(158, 123, 255, 0.6);" />
+
  
  <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=E53935&center=true&vCenter=true&width=500&lines=Code+Artisan+💻;Problem+Solver+🚀;Data+Enthusiast+🧮" alt="Typing Animation" />
@@ -27,6 +29,7 @@
 <ul>
   <li> <a href="https://github.com/SoumajyotiDhut/Rare-Diseases-Identifier">Rare Diseases Identifier </a>: AI-powered system for early and accurate identification of rare diseases using symptoms and medical image analysis.</li>
   <li> <a href="https://github.com/SoumajyotiDhut/Fake-News-Detector">Fake News Detector</a> : Machine learning-based web app that detects and flags fake news with real-time accuracy and reliability </li>
+ <li> 🌾 AgroConnect — A direct-to-consumer platform empowering farmers to sell produce directly, eliminating middlemen and maximizing income </li>
 </ul>
 
 <!-- Snake Game Repo View -->
@@ -36,9 +39,9 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SoumajyotiDhut&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SoumajyotiDhut&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumajyotiDhut&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SoumajyotiDhut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SoumajyotiDhut&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumajyotiDhut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SoumajyotiDhut&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -47,7 +50,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SoumajyotiDhut&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SoumajyotiDhut&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoumajyotiDhut&icon=4&color=10)](https://visitcount.itsvg.in)
