@@ -309,6 +309,12 @@ me.say_hi()
 
 ---
 
+## 💡 HackerRank Stats  
+
+<div align="center">  
+  <img src="https://github-readme-hackerrank.vercel.app/api?hacker_rank_username=SoumajyotiDhut&theme=dark&hide_border=true" alt="HackerRank Stats"/>  
+</div>
+
 ## 💡 LeetCode Stats
 
 <div align="center">
