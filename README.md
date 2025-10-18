@@ -309,13 +309,14 @@ me.say_hi()
 
 ---
 
-## 💡 LeetCode Stats
+## 💡 Coding Platform Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Soumajyoti_Dhut?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats"/>
-</div>
+  
+### LeetCode
+<img src="https://leetcard.jacoblin.cool/Soumajyoti_Dhut?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats"/>
 
----
+</div>
 
 ## 📈 Contribution Graph
 
