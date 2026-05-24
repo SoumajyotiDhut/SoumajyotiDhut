@@ -110,10 +110,10 @@ print(me.currently_doing())
 | [📊 Regional Sales Analysis](https://github.com/SoumajyotiDhut/Regional-Sales-Analysis) | Revenue trends, top products & regional performance insights | Python · SQL · Power BI · Excel | ✅ Complete |
 | [🛒 eCommerce Data Analysis](https://github.com/SoumajyotiDhut/ecommerce-sql-python-project) | Advanced customer behavior analysis — 15 business questions | SQL · Python · Pandas | ✅ Complete |
 | [📈 Sales Insights Dashboard](https://github.com/SoumajyotiDhut/sales-insights-and-forecasting-dashboard) | 15-day sales forecasting with strategic insights | Power BI · Time Series | ✅ Complete |
+| [📰 Fake News Detector](https://github.com/SoumajyotiDhut/Fake-News-Detector) | Real-time fake news detection with NLP | ML · NLP · Flask | ✅ Complete  |
 | [🏗️ Multi-Tenant ETL Pipeline](https://github.com/SoumajyotiDhut) | Streaming CSV/JSON ingestion · Transform · Load · 24 passing JUnit tests | Java · Spring Boot · PostgreSQL | 🔨 Building |
 | [🏥 Rare Diseases Identifier](https://github.com/SoumajyotiDhut/Rare-Diseases-Identifier) | AI-powered early detection for rare diseases | AI · ML · Image Analysis | 🚧 WIP |
-| [📰 Fake News Detector](https://github.com/SoumajyotiDhut/Fake-News-Detector) | Real-time fake news detection with NLP | ML · NLP · Flask | 🚧 WIP |
-| [🌾 AgroConnect](https://github.com/SoumajyotiDhut) | Direct-to-consumer platform empowering farmers | Full Stack | 🌱 Planned |
+| [🌾 AgroConnect](https://github.com/SoumajyotiDhut) | Direct-to-consumer platform empowering farmers | Full Stack | 🚧 WIP |
 
 </div>
 
